@@ -4,7 +4,7 @@ The system proposes to predict the yield of a crop as per the area of the land f
 
 I also presented a research paper based on this project, the link for which is mentioned here : https://link.springer.com/chapter/10.1007/978-981-15-7421-4_8
 
-Here is a short video for the same : https://drive.google.com/file/d/1UvQ6VzyCBL-ZSkq51YAxBB4y42Wzzsto/view
+Here is a short video for the project : https://drive.google.com/file/d/1UvQ6VzyCBL-ZSkq51YAxBB4y42Wzzsto/view
 
 
 
